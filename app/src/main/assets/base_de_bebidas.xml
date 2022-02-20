@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bebidas>
+	<bebida>
+		<nombre>Agua</nombre>
+		<categoria>Bebida</categoria>
+		<tipo>Bebida</tipo>
+		<precio>2.5</precio>
+	</bebida>
+	<bebida>
+		<nombre>Refresco</nombre>
+		<categoria>Bebida</categoria>
+		<tipo>Bebida</tipo>
+		<precio>3</precio>
+	</bebida>
+	<bebida>
+		<nombre>Cerveza</nombre>
+		<categoria>Bebida</categoria>
+		<tipo>Bebida</tipo>
+		<precio>2.5</precio>
+	</bebida>
+	<bebida>
+		<nombre>Café</nombre>
+		<categoria>Bebida</categoria>
+		<tipo>Bebida</tipo>
+		<precio>1.5</precio>
+	</bebida>
+	<bebida>
+		<nombre>Té</nombre>
+		<categoria>Bebida</categoria>
+		<tipo>Bebida</tipo>
+		<precio>1.5</precio>
+	</bebida>
+	<bebida>
+		<nombre>Cortado</nombre>
+		<categoria>Bebida</categoria>
+		<tipo>Bebida</tipo>
+		<precio>1.5</precio>
+	</bebida>
+</bebidas>
